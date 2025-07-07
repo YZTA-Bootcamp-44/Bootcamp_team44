@@ -18,8 +18,8 @@ Team Clover
 - Her gün rastgele değişen çevresel eşyalar ve oyun içi dinamikler
 
 ## Hedef Kitle
-Hedef Kitle
-12 yaş ve üzeri oyuncular
+
+-12 yaş ve üzeri oyuncular
 
 -Kule savunma, strateji ve kaynak yönetimi türlerini seven tek oyunculu deneyim arayanlar
 
