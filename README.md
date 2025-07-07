@@ -22,8 +22,11 @@ Hedef Kitle
 12 yaş ve üzeri oyuncular
 
 -Kule savunma, strateji ve kaynak yönetimi türlerini seven tek oyunculu deneyim arayanlar
+
 -Atmosferik, hikâyesel arka plana sahip oyunlardan hoşlanan casual ve mid-core oyuncular
+
 -Bağımsız oyunlara ilgi duyan ve yaratıcı konseptleri keşfetmeyi seven oyuncular
+
 -Kısa süreli ama tekrar oynanabilirliği yüksek oyun deneyimi arayanlar
 
 ---
