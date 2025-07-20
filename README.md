@@ -34,3 +34,6 @@ Team Clover
 Gurubun yoğunluğundan dolayı ilk hafta yalnızca yüzeysel konular belirlenmiş ve basitçe görev dağılımı yapılmıştır
 
 ![image](https://github.com/user-attachments/assets/4867df95-972b-4508-9d40-d020527d67a5)
+
+# **SPRINT 2** 
+Gurup içinde sorunlar yaşandı ilerleyen süreçte projeyi tek başıma ilerletmeyi planlıyorum bu süreci aşama aşama kaydedeceğim
