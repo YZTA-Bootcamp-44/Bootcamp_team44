@@ -35,3 +35,6 @@ Gurubun yoğunluğundan dolayı ilk hafta yalnızca yüzeysel konular belirlenmi
 
 # **SPRINT 2** 
 Gurup içinde sorunlar yaşandı ilerleyen süreçte projeyi tek başıma ilerletmeyi planlıyorum bu süreci aşama aşama kaydedeceğim
+
+# **SPRINT 3**
+Proje bireysel olarak ilerletilmeye devam edildi. Teknik altyapı hazırlandı, görsel içerikler üretildi ve proje GitHub'a yüklendi. Ancak takımın dağılması sonrası tüm sorumlulukların tek kişiye kalması ve yoğun akademik takvim nedeniyle oynanabilir bir versiyon tamamlanamadı. Bu sebeple video sunumu hazırlanamamıştır. Mevcut mockup sahnesi, sprite'lar ve proje dosyaları bu repoda yer almaktadır.
