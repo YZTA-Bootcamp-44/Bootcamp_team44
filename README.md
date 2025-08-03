@@ -4,10 +4,10 @@ Team Clover
 - ***Ahmet Bilal Parlak*** - Scrum Master
 
 ## Oyun İsmi
-*** henüz kesinleştirilmedi ***
+Glowguard
 
 ## Oyun Açıklaması
----------, oyuncuların bir çocuğun odasında geçen, yatağın altındaki ışık kristallerini korumaya çalıştıkları, izometrik bakış açısıyla oynanan, kule savunma ve aksiyon ögelerini birleştiren bir strateji oyunudur. Oyuncular, çocuğun favori oyuncağını kontrol ederek her gece odanın kapısından gelen yaratık dalgalarını durdurmaya çalışır. Her sabah, yukarıdan bakış açısıyla kule yerleştirme, oyuncakları güçlendirme ve savunma alanını geliştirme fırsatı sunulur. Her gün çocuğun odaya rastgele getirdiği eşyalar, oyun alanını ve stratejileri etkileyerek her oynanışta farklı deneyimler sunar.
+Glowguard, oyuncuların bir çocuğun odasında geçen, yatağın altındaki ışık kristallerini korumaya çalıştıkları, izometrik bakış açısıyla oynanan, kule savunma ve aksiyon ögelerini birleştiren bir strateji oyunudur. Oyuncular, çocuğun favori oyuncağını kontrol ederek her gece odanın kapısından gelen yaratık dalgalarını durdurmaya çalışır. Her sabah, yukarıdan bakış açısıyla kule yerleştirme, oyuncakları güçlendirme ve savunma alanını geliştirme fırsatı sunulur. Her gün çocuğun odaya rastgele getirdiği eşyalar, oyun alanını ve stratejileri etkileyerek her oynanışta farklı deneyimler sunar.
 
 ## Oyun Özellikleri
 - 2D izometrik
