@@ -38,3 +38,9 @@ Gurup içinde sorunlar yaşandı ilerleyen süreçte projeyi tek başıma ilerle
 
 # **SPRINT 3**
 Proje bireysel olarak ilerletilmeye devam edildi. Teknik altyapı hazırlandı, görsel içerikler üretildi ve proje GitHub'a yüklendi. Ancak takımın dağılması sonrası tüm sorumlulukların tek kişiye kalması ve yoğun akademik takvim nedeniyle oynanabilir bir versiyon tamamlanamadı. Bu sebeple video sunumu hazırlanamamıştır. Mevcut mockup sahnesi, sprite'lar ve proje dosyaları bu repoda yer almaktadır.
+
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/e271bf6d-19ff-4674-8511-b3a74ee027db" />
+
+<img width="500" height="500" alt="2" src="https://github.com/user-attachments/assets/01823a96-edc1-4fbc-917e-d1c4c1359f88" />
+
+<img width="1024" height="1024" alt="5" src="https://github.com/user-attachments/assets/704a16b9-e6e9-4c46-9e2f-a36b54cb7fc1" />
