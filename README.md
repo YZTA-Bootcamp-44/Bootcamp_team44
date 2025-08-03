@@ -1,9 +1,7 @@
 ## Takım İsmi
 Team Clover 
 ## Takım Üyeleri
-- ***Berra Okudurlar*** - Product Owner
 - ***Ahmet Bilal Parlak*** - Scrum Master
-- ***Zeynep Aydemir*** - Developer
 
 ## Oyun İsmi
 *** henüz kesinleştirilmedi ***
